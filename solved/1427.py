@@ -1,0 +1,1 @@
+print(''.join(i for i in sorted([i for i in input()], reverse=True)))

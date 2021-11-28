@@ -15,6 +15,6 @@ if arr[0] < arr[1]:
 elif arr[0] > arr[1]:
     print('daisy')
 
-    
+
 else:
     print('tie')
